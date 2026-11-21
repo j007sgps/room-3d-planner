@@ -1,0 +1,18 @@
+{
+  "name": "room-3d-planner",
+  "displayName": "Room 3D Planner",
+  "version": "1.0.0",
+  "author": {
+    "name": "j007sgps",
+    "url": "https://github.com/j007sgps"
+  },
+  "homepage": "https://github.com/j007sgps/room-3d-planner",
+  "repository": "https://github.com/j007sgps/room-3d-planner",
+  "description": "Four-phase workflow to clean hand-measured apartment floorplans and build interactive React Three Fiber 3D interior simulators with first-person walkthrough, preview/edit lock, and mobile virtual joystick.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "幫我為新物件建立 3D 室內空間與家具規劃模擬器，先從 Phase 1 搜尋格局圖開始",
+    "這是我用捲尺量的房間尺寸與照片，請先幫我做閉合誤差修正與平面確認表",
+    "幫現有的 3D 房間模擬器補上預覽／編輯鎖定模式與手機版第一人稱虛擬搖桿"
+  ]
+}
